@@ -40,7 +40,7 @@
         <mysql-connector-java.version>5.1.47</mysql-connector-java.version>
         <scala-bcrypt_2.10.version>2.3</scala-bcrypt_2.10.version>
         <rest-assured.version>2.9.0</rest-assured.version>
-        <ant.version>1.9.7</ant.version>
+        <ant.version>1.10.9</ant.version>
         <velocity.version>1.7</velocity.version>
         <j2cache-boot.version>2.7.6-release</j2cache-boot.version>
         <j2cache.version>2.7.6-release</j2cache.version>
