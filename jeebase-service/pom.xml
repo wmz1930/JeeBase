@@ -27,7 +27,7 @@
         <druid-version>1.1.13</druid-version>
         <slf4j-api.version>1.7.25</slf4j-api.version>
         <reflections.version>0.9.11</reflections.version>
-        <guava.version>27.0.1-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
         <commons-lang3.version>3.4</commons-lang3.version>
         <jsoup.version>1.11.3</jsoup.version>
         <velocity.version>1.7</velocity.version>
